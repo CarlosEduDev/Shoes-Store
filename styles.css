@@ -37,7 +37,7 @@ body{
 
 /* SECTION */
 .hero{
-   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/assets/Images/wallpaper.jpeg');
+   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/Images/wallpaper.jpeg');
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
@@ -121,6 +121,9 @@ footer{
    text-decoration: none;
    margin-left: .3rem;
    color: #fff;
+}
+.footer-end a{
+   color: #65e6f4;
 }
 .footer-end p{
    padding-top: 3rem;
